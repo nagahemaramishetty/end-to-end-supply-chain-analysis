@@ -122,6 +122,12 @@ python generate_report.py
 jupyter notebook notebooks/kpi_analysis.ipynb
 ```
 
+## Tableau Dashboard Story
+
+![Tableau Story](reports/tableau_story_page1_preview.png)
+![Tableau Story](reports/tableau_story_page2_preview.png)
+![Tableau Story](reports/tableau_story_page3_preview.png)
+
 ---
 
 ## Recommendations
